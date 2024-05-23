@@ -1,5 +1,5 @@
 # IRREGular EXpression
-Regex expression matcher for the subset of conventional regex in c.
+Regex expression matcher in c for the subset of conventional regex.
 
 ## Syntax
 | Expression | Match clause |
